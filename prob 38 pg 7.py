@@ -33,7 +33,7 @@ else:
 #f
 if "TO" in S:
     for i in S:
-        f=S.replace("B","")
+        f=S.replace("TO","")
     print("f) Sirul obtinut prin radierea a tuturor aparitiilor silabe 'TO': ",f)
 else:
     print("f) ",S)
